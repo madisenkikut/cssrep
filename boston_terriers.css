@@ -1,0 +1,32 @@
+/*
+Madisen Kikut
+March 28th, 2018
+Boston Terriers
+*/
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body {
+background-color: LightCyan;
+color: black;
+font-family: "Times New Roman", Arial, Helvetica;
+}
+
+
+figure {float: right;}
+
+h1 {
+background-color: yellow;
+font-size: 150%;
+text-decoration: underline overline;
+text-align: center; 
+}
+
+p {
+background-color: white;
+font-size: 150%;
+}
